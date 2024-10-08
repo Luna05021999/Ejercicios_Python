@@ -62,3 +62,8 @@ Plataformas online: Sitios como Real Python y LearnPython.org ofrecen tutoriales
 
 ## 📋 Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Siéntete libre de utilizar, modificar y compartir los ejercicios según tus necesidades.
+
+## Contacto
+- Luna Outerelo Fernández.
+- Email: lunaouterelo9@gmail.com
+- Linkedin: https://www.linkedin.com/in/luna-outerelo-4414a0192/
